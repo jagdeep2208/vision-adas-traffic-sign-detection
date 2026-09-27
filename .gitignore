@@ -71,3 +71,5 @@ Thumbs.db
 # ============================================================
 
 archive/
+# Synthetic test videos
+synthetic_video/
